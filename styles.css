@@ -754,7 +754,7 @@ nav {
 }
 @keyframes item-in {
   from { transform: translateX(-10px); opacity: 0; }
-  to   { transform: translateX(0);     opacity: 1; }
+  to   { transform: translateX(0); opacity: 1; }
 }
 .booking-item-info { flex: 1; }
 .booking-item-court {
@@ -847,7 +847,7 @@ nav {
   align-items: start;
 }
 
-/* ─────────────────── MODAL CONFIRMACIÓN ─────────────────── */
+/* ─────────────────── MODAL ─────────────────── */
 .modal-overlay {
   position: fixed;
   inset: 0;
